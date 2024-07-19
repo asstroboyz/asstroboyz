@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Risdandi Ganda Gunawan</h1>
-<h3 align="center"> I am a full-stack developer who enjoys experimenting. I'm always looking for opportunities to broaden my knowledge and skills, especially in developing innovative and efficient end-to-end solutions. I believe that experimentation is key to discovering better solutions and ensuring that the products I build are not only functional but also deliver exceptional user experiences.</h3>
+<p align="center"> I am a full-stack developer who enjoys experimenting. I'm always looking for opportunities to broaden my knowledge and skills, especially in developing innovative and efficient end-to-end solutions. I believe that experimentation is key to discovering better solutions and ensuring that the products I build are not only functional but also deliver exceptional user experiences.</p>
 
 
 
