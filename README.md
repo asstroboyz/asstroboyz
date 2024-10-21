@@ -16,12 +16,12 @@
     <li><a href="https://github.com/asstroboyz/Inventaris_Pengadaan" target="_blank">Sistem Informasi Inventaris Pengadaan Barang Di Badan Pusat Statistik</a> - Pengelolaan Inventaris Barang Di Badan Pusat Statistik Kota Kepada Badan Staistik Pusat</li>
 </ul>
 
-<h3 align="left">Certifications & Badges:</h3>
-<p>
+<!-- <h3 align="left">Certifications & Badges:</h3>
+ <p>
     <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow" alt="JavaScript Intermediate" />
     <img src="https://img.shields.io/badge/React-Advanced-blue" alt="React Advanced" />
     <img src="https://img.shields.io/badge/GitHub-Proficient-green" alt="GitHub Proficient" />
-</p>
+</p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
