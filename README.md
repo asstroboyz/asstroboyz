@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=asstroboyz&theme=youtube-dark&card_width=501)" height="220" alt="streak graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=asstroboyz&theme=youtube-dark&card_width=501)" height="220" alt="streak graph"  /> -->
 </div>
 
 <h3 align="left">Projects:</h3>
