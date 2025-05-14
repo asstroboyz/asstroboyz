@@ -54,7 +54,7 @@
     <img src="https://komarev.com/ghpvc/?username=asstroboyz" alt="Profile Views" />
 </div>
 
----
+
 
 ### 🛠️ Languages and Tools:
 <p align="center">
@@ -87,10 +87,11 @@
     </a>
 </p>
 
-<img src="https://github.com/asstroboyz/asstroboyz/blob/output/snake.svg" />
 
 
----
+<p align="center">
+  <img src="https://github.com/asstroboyz/asstroboyz/blob/output/snake.svg" />
+</p>
 
 <p align="center">
     <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" alt="Developer Animation" />
