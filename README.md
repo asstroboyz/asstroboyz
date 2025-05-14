@@ -87,7 +87,8 @@
     </a>
 </p>
 
-![snake gif](https://github.com/asstroboyz/asstroboyz/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/asstroboyz/asstroboyz/blob/output/snake.svg" />
+
 
 ---
 
