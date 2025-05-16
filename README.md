@@ -24,10 +24,27 @@
 
 ### 🚀 Featured Projects
 
-<ul>
-  <li><a href="https://github.com/asstroboyz/hera" target="_blank"><strong>Sistem Informasi Arus Kas</strong></a> – CodeIgniter 4</li>
-  <li><a href="https://github.com/asstroboyz/Inventaris_Pengadaan" target="_blank"><strong>Inventaris Pengadaan Barang</strong></a> – Pengelolaan Inventaris di BPS</li>
-  <li><a href="https://github.com/asstroboyz/monorepo" target="_blank"><strong>Turbo Repo CRUD Project</strong></a> – Clean architecture, simple UI</li>
+<ul style="list-style: none; padding: 0;">
+  <li>
+    <p><strong>💰 <a href="https://github.com/asstroboyz/hera" target="_blank">Sistem Informasi Arus Kas </a></strong><br/>
+    <em>Framework: CodeIgniter 4</em></p>
+  </li>
+  <li>
+    <p><strong>📦 <a href="https://github.com/asstroboyz/Inventaris_Pengadaan" target="_blank">Inventaris Pengadaan Barang di Badan Pusat Statistik Kota Pekalongan</a></strong><br/>
+    <em>Pengelolaan Inventaris di BPS</em></p>
+  </li>
+  <li>
+    <p><strong>🛠️ <a href="https://github.com/asstroboyz/monorepo" target="_blank">Turbo Repo CRUD Project</a></strong><br/>
+    <em>Clean architecture, simple UI</em></p>
+  </li>
+  <li>
+    <p><strong>🏥 <a href="https://github.com/asstroboyz/e-Posyandu" target="_blank">Sistem Informasi Manajemen Posyandu Ceria Pekalongan Selatan</a></strong><br/>
+    <em>Monitoring kesehatan balita dan ibu</em></p>
+  </li>
+  <li>
+    <p><strong>🌐 <a href="https://github.com/asstroboyz/bulma-react" target="_blank">Sistem Informasi Tagihan WiFi</a></strong><br/>
+    <em>CV Rizki Abadi Indojaya Berkah</em></p>
+  </li>
 </ul>
 
 ---
