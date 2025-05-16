@@ -14,31 +14,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I'm+Risdandi+Ganda+Gunawan.;Fullstack+Engineer+%7C+React+%7C+Golang+%7C+TailwindCSS.;Crafting+code+that+matters+%E2%9A%99%EF%B8%8F;Open+Source+Contributor+%F0%9F%94%A5;Always+Learning%2C+Always+Building+%F0%9F%9A%80"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy?style=social" />
-    <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy?style=social" />
-    <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy?style=flat-square" />
-    <img src="https://img.shields.io/github/issues-closed/ryo-ma/github-profile-trophy?style=flat-square" />
-    <img src="https://img.shields.io/github/license/ryo-ma/github-profile-trophy?style=flat-square" />
-  </a>
-  <br/>
-  <em>You can use this service for free. I'm looking for sponsors to help us keep up with this service ❤️</em>
-</p>
 
-<p align="center">
-  <a href="https://github.com/sponsors/ryo-ma">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-lightgrey?style=for-the-badge&logo=github-sponsors" />
-  </a>
-</p>
 
----
 
-### 🌟 Typing Animation
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I'm+Risdandi+Ganda+Gunawan.;Fullstack+Engineer+%7C+React+%7C+Golang+%7C+TailwindCSS.;Crafting+code+that+matters+%E2%9A%99%EF%B8%8F;Open+Source+Contributor+%F0%9F%94%A5;Always+Learning%2C+Always+Building+%F0%9F%9A%80"/>
-</p>
 
 ---
 
