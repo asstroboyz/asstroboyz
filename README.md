@@ -58,9 +58,10 @@
   <a href="https://www.linkedin.com/in/risdandi-ganda-gunawan-5831052b8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:gandagunawan36@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="mailto:gandagunawan36@gmail.com" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=gandagunawan36@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail" />
+    </a>
+
   <a href="https://www.instagram.com/_v.sycho/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
