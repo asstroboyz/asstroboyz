@@ -11,8 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FACC15&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I'm+Risdandi+Ganda+Gunawan.;Fullstack+Engineer+%7C+React+%7C+Golang+%7C+TailwindCSS.;CodeIgniter+%7C+PHP+%7C+MySQL+%7C+PostgreSQL;Crafting+code+that+matters+%E2%9A%99%EF%B8%8F;Open+Source+Contributor+%F0%9F%94%A5;Always+Learning%2C+Always+Building+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I'm+Risdandi+Ganda+Gunawan.;Fullstack+Engineer+%7C+React+%7C+Golang+%7C+TailwindCSS.;CodeIgniter+%7C+PHP+%7C+MySQL+%7C+PostgreSQL;Crafting+code+that+matters+%E2%9A%99%EF%B8%8F;Open+Source+Contributor+%F0%9F%94%A5;Always+Learning%2C+Always+Building+%F0%9F%9A%80"/>
 </p>
+
 
 
 
