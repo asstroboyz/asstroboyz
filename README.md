@@ -85,14 +85,6 @@
 
 ---
 
-### 🌟 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asstroboyz&theme=dracula&column=6&margin-w=10&margin-h=15" />
-</p>
-
----
-
 ### 📊 GitHub Activity Graph
 
 <p align="center">
