@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="github_profile_banner.png" alt="Banner" width="100%"/>
-</p>
+
 
 <div align="center">
   <!-- 3D Contribution Cube -->
@@ -157,10 +155,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asstroboyz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asstroboyz&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asstroboyz&theme=tokyonight&hide_border=true" width="97%"/>
