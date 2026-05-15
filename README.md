@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- 3D Contribution Cube -->
-  <img src="https://raw.githubusercontent.com/asstroboyz/asstroboyz/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Visual" />
+  <img src="https://raw.githubusercontent.com/asstroboyz/asstroboyz/main/profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Visual" />
 </div>
 
 <h1 align="center">
