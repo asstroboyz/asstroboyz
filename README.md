@@ -1,10 +1,19 @@
+<p align="center">
+  <img src="github_profile_banner.png" alt="Banner" width="100%"/>
+</p>
+
+<div align="center">
+  <!-- 3D Contribution Cube -->
+  <img src="https://raw.githubusercontent.com/asstroboyz/asstroboyz/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Visual" />
+</div>
+
 <h1 align="center">
   Hi, I'm <span style="color:#22d3ee;">Risdandi Ganda Gunawan</span> 👋
 </h1>
 
 <p align="center">
   <strong>Fullstack Developer</strong><br/>
-  PHP • CodeIgniter 4 • React • MySQL • PostgreSQL
+  PHP • CodeIgniter 4 • Golang • Gin Gonic • React • MySQL • PostgreSQL
 </p>
 
 <p align="center">
@@ -14,7 +23,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Fullstack+Developer;CodeIgniter+4+Specialist;Role-Based+Information+Systems;Always+Learning+%26+Improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Fullstack+Developer;CodeIgniter+4+Specialist;Golang+%26+Gin+Gonic;Role-Based+Information+Systems;Always+Learning+%26+Improving" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DEVELOPER-FULLSTACK-22D3EE?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPECIALIST-CODEIGNITER_4-FF6B6B?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCATION-INDONESIA-059669?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
 
 ---
@@ -109,11 +124,29 @@
 
 ## 🧰 Skills & Technologies
 
-### 🛠️ Main Stack
-- PHP (CodeIgniter 4)  
-- JavaScript  
-- React  
-- MySQL / PostgreSQL  
+<div align="center">
+
+### Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gin-00818A?style=for-the-badge&logo=gin&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### Tools & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+</div>
 
 ### 🌱 Currently Learning
 - Golang  
@@ -124,21 +157,22 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asstroboyz&show_icons=true&theme=tokyonight&hide_border=true" width="420"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asstroboyz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asstroboyz&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asstroboyz&layout=compact&theme=tokyonight&hide_border=true" width="420"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asstroboyz&theme=tokyonight&hide_border=true" width="97%"/>
+</div>
 
 ---
 
 ## 🐍 GitHub Activity
 
-<p align="center">
-  <img src="https://github.com/asstroboyz/asstroboyz/blob/output/snake.svg" alt="GitHub Snake Animation" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/asstroboyz/asstroboyz/output/snake.svg" alt="GitHub Snake Animation" />
+</div>
 
 ---
 
@@ -146,21 +180,23 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/risdandi-ganda-gunawan-3651a5254/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gandagunawan36@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_v.sycho/">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/asstroboyz">
-    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <em>"Build systems that people actually use."</em>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=asstroboyz&color=22d3ee&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br/>
+  <sub>💡 <i>"Build systems that people actually use."</i></sub>
+</div>
